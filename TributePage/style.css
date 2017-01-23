@@ -1,0 +1,42 @@
+#container {
+  max-width: 710px;
+  margin: 0 auto;
+}
+
+.content {
+  border: 1px solid silver;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.cover-photo {
+  background-color: grey;
+  background: url(edgar-allan-poe.jpg) center center;
+  background-size: cover;
+  height: 300px;
+  margin: -10px;
+  border-radius: 5px 5px 0px 0px;
+}
+
+hr {
+  border: 1px solid silver;
+  margin: 0 -10px 0 -10px;
+}
+
+blockquote p {
+  font-family: "Georgia";
+  font-style: italic;
+  font-size: 18px;
+}
+
+span.more a {
+  text-decoration: none;
+  font-style: italic;
+  color: grey;
+}
+
+span.more a:hover {
+  text-decoration: underline;
+  color: black;
+}
