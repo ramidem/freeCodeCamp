@@ -1,6 +1,9 @@
 function wordBlanks(myNoun, myAdjective, myVerb, myAdverb) {
-	var result = "the" + " " + myAdjective + " " + myNoun + " " + myVerb + " " myAdverb;
-	return result;
+  // Your code below this line
+  var result = "The " + myAdjective + " " + myNoun + " " + myVerb + " " + myAdverb;
+  // Your code above this line
+  return result;
 }
 
-wordBlanks("cat", "little", "hit", "slowly");
+// Change the words here to test your function
+wordBlanks("dog", "big", "ran", "quickly");
