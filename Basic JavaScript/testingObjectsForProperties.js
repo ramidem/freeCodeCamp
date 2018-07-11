@@ -1,4 +1,3 @@
-// https://www.freecodecamp.com/challenges/testing-objects-for-properties
 // Setup
 var myObj = {
   gift: "pony",
@@ -9,9 +8,9 @@ var myObj = {
 function checkObj(checkProp) {
   // Your Code Here
   if (myObj.hasOwnProperty(checkProp)) {
-    return myObj[checkProp];
+    return myObj[checkProp]
   } else {
-    return "Not Found";
+    return "Not Found"
   }
 }
 
