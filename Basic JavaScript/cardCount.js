@@ -13,12 +13,11 @@ function cc(card) {
     case 6:
       count+=1;
       break;
-    case 4:
-    case 5:
-    case 6:
+    case 7:
+    case 8:
+    case 9:
       count+=0;
       break;
-   case 2:
     case 10:
     case "J":
     case "Q":
@@ -39,3 +38,5 @@ function cc(card) {
 // Add/remove calls to test your function.
 // Note: Only the last will display
 cc(2); cc(3); cc(7); cc('K'); cc('A');
+
+console.log(cc(8))
