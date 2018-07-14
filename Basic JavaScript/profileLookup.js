@@ -29,10 +29,10 @@ var contacts = [
 ];
 
 
-function lookUpProfile(firstName, prop){
+function lookUpProfile(name, prop){
 // Only change code below this line
   for (var i = 0; i < contacts.length; i++) {
-    if (contacts[i].firstName === firstName) {
+    if (contacts[i].firstName === name) {
       if (contacts[i].hasOwnProperty(prop)) {
         return contacts[i][prop];
       } else {
@@ -46,4 +46,4 @@ function lookUpProfile(firstName, prop){
 }
 
 // Change these values to test your function
-console.log(lookUpProfile("Akira", "likes"));
+console.log(lookUpProfile("Sherlock", "Gender"));
