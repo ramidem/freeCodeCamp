@@ -6,39 +6,48 @@ https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5/Introduction_to_HT
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <style>
-      main {
-        max-width: 450px;
-        margin: 0 auto;
-      }
-    </style>
+    <link rel="stylesheet" href="basic.css" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Lobster"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <link
+      href="https://fonts.googleapis.com/css?family=Poppins"
+      rel="stylesheet"
+    />
     <title>CatPhotoApp</title>
   </head>
   <body>
-    <h2>CatPhotoApp</h2>
+    <h2 class="red-text">CatPhotoApp</h2>
     <main>
-      <p>Click here to view more <a href="#">cat photos</a>.</p>
+      <p class="red-text">
+        Click here to view more <a href="#">cat photos</a>.
+      </p>
 
       <a href="#"
         ><img
+          class="smaller-image thick-green-border"
           src="https://bit.ly/fcc-relaxing-cat"
           alt="A cute orange cat lying on its back."
       /></a>
 
-      <p>Things cats love:</p>
-      <ul>
-        <li>cat nip</li>
-        <li>laser pointers</li>
-        <li>lasagna</li>
-      </ul>
-      <p>Top 3 things cats hate:</p>
-      <ol>
-        <li>flea treatment</li>
-        <li>thunder</li>
-        <li>other cats</li>
-      </ol>
+      <div class="silver-background">
+        <p>Things cats love:</p>
+        <ul>
+          <li>cat nip</li>
+          <li>laser pointers</li>
+          <li>lasagna</li>
+        </ul>
+        <p>Top 3 things cats hate:</p>
+        <ol>
+          <li>flea treatment</li>
+          <li>thunder</li>
+          <li>other cats</li>
+        </ol>
+      </div>
 
-      <form action="/submit-cat-photo">
+      <form id="cat-photo-form" action="/submit-cat-photo">
         <label><input type="radio" name="indoor-outdoor" /> Indoor</label>
         <label><input type="radio" name="indoor-outdoor" /> Outdoor</label
         ><br />
