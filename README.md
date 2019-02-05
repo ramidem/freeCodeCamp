@@ -12,8 +12,8 @@ I am not sure how long I have hindered this passion of mine. This will work this
   - [x] Basic HTML and HTML5
   - [x] Basic CSS
   - [x] Applied Visual Design
-  - [ ] Applied Accessibility
-  - [ ] Responsive Web Design Principles
+  - [x] Applied Accessibility
+  - [x] Responsive Web Design Principles
   - [ ] CSS Flexbox
   - [ ] CSS Grid
   - [ ] Responsive Web Design Projects
