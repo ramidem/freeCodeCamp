@@ -17,7 +17,22 @@ I am not sure how long I have hindered this passion of mine. This will work this
   - [x] CSS Flexbox
   - [x] CSS Grid
   - [ ] Responsive Web Design Projects
+    - [ ] Tribute Page
+    - [ ] Survey Form
+    - [ ] Product Landing Page
+    - [ ] Technical Documentation Page
+    - [ ] Personal Portfolio Webpage
 - [ ] Javascript Algorithms And Data Structures Certification (300 hours)
+  - [ ] Basic JavaScript
+  - [ ] ES6
+  - [ ] Regular Expressions
+  - [ ] Debugging
+  - [ ] Basic Data Structures
+  - [ ] Basic Algorithm Scripting
+  - [ ] Object Oriented Programming
+  - [ ] Functional Programming
+  - [ ] Intermediate Algorithm Scripting
+  - [ ] JavaScript Algorithms and Data Structures Projects
 - [ ] Front End Libraries Certification (300 hours)
 - [ ] Data Visualization Certification (300 hours)
 - [ ] Apis And Microservices Certification (300 hours)
