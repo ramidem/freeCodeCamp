@@ -23,7 +23,7 @@ I am not sure how long I have hindered this passion of mine. This will work this
     - [ ] Technical Documentation Page
     - [ ] Personal Portfolio Webpage
 - [ ] Javascript Algorithms And Data Structures Certification (300 hours)
-  - [ ] Basic JavaScript
+  - [x] Basic JavaScript
   - [ ] ES6
   - [ ] Regular Expressions
   - [ ] Debugging
