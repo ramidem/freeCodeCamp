@@ -1,0 +1,151 @@
+body {
+  background-color: #f1f1f1;
+  padding: 0 2%;
+  font-size: 14px;
+}
+
+/* INSPIRATIONS */
+/* 
+http://www.elliotjaystocks.com/blog/
+specifically the faux div
+*/
+
+/* background pattern */
+/* https://leaverou.github.io/css3patterns/#seigaiha */
+#faux {
+  position: fixed;
+  width: 100%;
+  height: 25%;
+  top: 0;
+  right: 0;
+  left: 0;
+  background-color: rgb(209, 228, 220);
+  background-image: radial-gradient(
+      circle at 100% 150%,
+      rgb(209, 228, 220) 24%,
+      white 25%,
+      white 28%,
+      rgb(209, 228, 220) 29%,
+      rgb(209, 228, 220) 36%,
+      white 36%,
+      white 40%,
+      transparent 40%,
+      transparent
+    ),
+    radial-gradient(
+      circle at 0 150%,
+      rgb(209, 228, 220) 24%,
+      white 25%,
+      white 28%,
+      rgb(209, 228, 220) 29%,
+      rgb(209, 228, 220) 36%,
+      white 36%,
+      white 40%,
+      transparent 40%,
+      transparent
+    ),
+    radial-gradient(
+      circle at 50% 100%,
+      white 10%,
+      rgb(209, 228, 220) 11%,
+      rgb(209, 228, 220) 23%,
+      white 24%,
+      white 30%,
+      rgb(209, 228, 220) 31%,
+      rgb(209, 228, 220) 43%,
+      white 44%,
+      white 50%,
+      rgb(209, 228, 220) 51%,
+      rgb(209, 228, 220) 63%,
+      white 64%,
+      white 71%,
+      transparent 71%,
+      transparent
+    ),
+    radial-gradient(
+      circle at 100% 50%,
+      white 5%,
+      rgb(209, 228, 220) 6%,
+      rgb(209, 228, 220) 15%,
+      white 16%,
+      white 20%,
+      rgb(209, 228, 220) 21%,
+      rgb(209, 228, 220) 30%,
+      white 31%,
+      white 35%,
+      rgb(209, 228, 220) 36%,
+      rgb(209, 228, 220) 45%,
+      white 46%,
+      white 49%,
+      transparent 50%,
+      transparent
+    ),
+    radial-gradient(
+      circle at 0 50%,
+      white 5%,
+      rgb(209, 228, 220) 6%,
+      rgb(209, 228, 220) 15%,
+      white 16%,
+      white 20%,
+      rgb(209, 228, 220) 21%,
+      rgb(209, 228, 220) 30%,
+      white 31%,
+      white 35%,
+      rgb(209, 228, 220) 36%,
+      rgb(209, 228, 220) 45%,
+      white 46%,
+      white 49%,
+      transparent 50%,
+      transparent
+    );
+  background-size: 100px 50px;
+  z-index: -1;
+}
+
+header {
+  text-align: center;
+  margin: 20px 0;
+}
+
+#main {
+  max-width: 640px;
+  background-color: #fff;
+  border-top: 10px solid #006417;
+  margin: 30px auto;
+  padding-bottom: 30px;
+  border-radius: 3px;
+  box-shadow: 1px 1px 10px #888;
+}
+
+.important {
+  color: red;
+}
+
+.btn-primary {
+  background-color: #006417;
+  border-color: #006417;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active {
+  background-color: #00802d;
+  border-color: #00802d;
+}
+
+footer {
+  font-size: 12px;
+  margin-top: 30px;
+  text-align: center;
+  color: #888;
+}
+
+footer a {
+  color: #888;
+  text-decoration: none;
+}
+
+footer a:hover {
+  color: #888;
+}
