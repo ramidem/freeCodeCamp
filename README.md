@@ -17,15 +17,15 @@ I am not sure how long I have hindered this passion of mine. This will work this
   - [x] CSS Flexbox
   - [x] CSS Grid
   - [ ] Responsive Web Design Projects
-    - [ ] Tribute Page
-    - [ ] Survey Form
+    - [x] Tribute Page
+    - [x] Survey Form
     - [ ] Product Landing Page
     - [ ] Technical Documentation Page
     - [ ] Personal Portfolio Webpage
 - [ ] Javascript Algorithms And Data Structures Certification (300 hours)
   - [x] Basic JavaScript
   - [x] ES6
-  - [ ] Regular Expressions
+  - [x] Regular Expressions
   - [ ] Debugging
   - [ ] Basic Data Structures
   - [ ] Basic Algorithm Scripting
