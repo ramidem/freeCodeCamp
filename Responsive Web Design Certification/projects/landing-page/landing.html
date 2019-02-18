@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <title>Landing Page</title>
+  <!-- <script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script> -->
+  <link rel="stylesheet" href="landing.css">
+  <link href="https://fonts.googleapis.com/css?family=Roboto:400,500" rel="stylesheet">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+</head>
+
+<body>
+  <header id="header">
+    <div class="logo">
+      <img id="header-img" width="60px" height="60px" src="https://i.imgur.com/xx9VtyA.png" alt="lorem ipsum logo" />
+    </div>
+
+    <nav id="nav-bar">
+      <ul>
+        <li><a class="nav-link" href="#how-it-works">How It Works</a></li>
+        <li><a class="nav-link" href="#features">Features</a></li>
+        <li><a class="nav-link" href="#pricing">Pricing</a></li>
+      </ul>
+    </nav>
+
+  </header>
+
+  <div id="how-it-works" class="container">
+    <section class="yt">
+      <iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/d3rKatsR3UM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </section>
+
+    <section id="hero">
+      <h2>Lorem Ipsum. Ipsum Facto.</h2>
+      <form id="form" action="https://www.freecodecamp.com/email-submit">
+        <input name="email" id="email" type="email" placeholder="Enter your email address" required />
+        <input id="submit" type="submit" value="Get Started" class="btn"></input>
+      </form>
+    </section>
+  </div>
+
+  <section id="features" class="container">
+    <div class="grid">
+      <div class="icon">
+        <i class="fa fa-3x fa-fire"></i>
+      </div>
+      <div class="desc">
+        <h2>Doner Turducken</h2>
+        <p>Spicy jalapeno bacon ipsum dolor amet mollit veniam ut ex tempor.</p>
+        <p>Id kevin, beef meatball ipsum pastrami shank doner aute ex.</p>
+        <p>Doner turducken leberkas, salami officia ham hock drumstick in. Consequat ea in aliqua, bacon tail.</p>
+      </div>
+    </div>
+    <div class="grid">
+      <div class="icon">
+        <i class="fa fa-3x fa-plane"></i>
+      </div>
+      <div class="desc">
+        <h2>Voluptate Tenderloin</h2>
+        <p>Venison pig frankfurter tempor alcatra picanha rump sausage shankle culpa. Ipsum sirloin aliqua, ut veniam velit jerky officia nostrud enim boudin pork.</p>
+        <p>Do nostrud ut, ground round commodo pork belly brisket cillum voluptate tenderloin in.</p>
+      </div>
+    </div>
+    <div class="grid">
+      <div class="icon">
+        <i class="fa fa-3x fa-truck" aria-hidden="true"></i>
+      </div>
+      <div class="desc">
+        <h2>Sirloin drumstick</h2>
+        <p>Ullamco leberkas turkey, id turducken biltong drumstick bresaola prosciutto.</p>
+        <p>Drumstick bresaola beef ullamco cillum in spare ribs bacon eu. Sirloin drumstick nostrud, bacon ball tip ut aute ham hock.</p>
+        
+      </div>
+    </div>
+  </section>
+
+  <section id="pricing" class="container">
+    <div class="price-grid">
+      <h3>Doner Turducken</h3>
+      <p class="price">$,$$$</p>
+      <ul>
+        <li>Spicy jalapeno bacon ipsum dolor amet fatback</li>
+        <li>Fatback frankfurter short loin.</li>
+        <li>Est meatloaf chicken, consectetur ea duis beef turkey.</li>
+        <li>Esse meatloaf eu ground round in short ribs</li>
+        <li>Fatback frankfurter short loin.</li>
+        <li>Spicy jalapeno bacon ipsum dolor amet fatback</li>
+      </ul>
+      <button class="btn">Select</button>
+    </div>
+
+    <div id="price-grid-center" class="price-grid">
+      <h3>Sirloin drumstick</h3>
+      <p class="price">$$$,$$$</p>
+      <ul>
+          <li>Est meatloaf chicken, consectetur ea duis beef turkey.</li>
+          <li>Spicy jalapeno bacon ipsum dolor amet fatback</li>
+          <li>Esse meatloaf eu ground round in short ribs</li>
+          <li>Fatback frankfurter short loin.</li>
+          <li>Est meatloaf chicken, consectetur ea duis beef turkey.</li>
+          <li>Esse meatloaf eu ground round in short ribs</li>
+          <li>Spicy jalapeno bacon ipsum dolor amet fatback</li>
+          <li>Fatback frankfurter short loin.</li>
+      </ul>
+      <button class="btn">Select</button>
+    </div>
+
+    <div class="price-grid">
+      <h3>Voluptate Tenderloin</h3>
+      <p class="price">$$$</p>
+      <ul>
+        <li>Est meatloaf chicken, consectetur ea duis beef turkey.</li>
+        <li>Spicy jalapeno bacon ipsum dolor amet fatback</li>
+        <li>Fatback frankfurter short loin.</li>
+        <li>Esse meatloaf eu ground round in short ribs</li>
+      </ul>
+      <button class="btn">Select</button>
+    </div>
+  </section>
+
+  <footer>
+    <ul>
+      <li><a href="#">Privacy</a></li>
+      <li><a href="#">Terms</a></li>
+      <li><a href="#">Contact</a></li>
+    </ul>
+    <span>Copyright 2019, Lorem Ipsum</span>
+  </footer>
+</body>
+</html>
