@@ -19,15 +19,15 @@ I am not sure how long I have hindered this passion of mine. This will work this
   - [ ] Responsive Web Design Projects
     - [x] Tribute Page
     - [x] Survey Form
-    - [ ] Product Landing Page
-    - [ ] Technical Documentation Page
+    - [x] Product Landing Page
+    - [x] Technical Documentation Page
     - [ ] Personal Portfolio Webpage
 - [ ] Javascript Algorithms And Data Structures Certification (300 hours)
   - [x] Basic JavaScript
   - [x] ES6
   - [x] Regular Expressions
-  - [ ] Debugging
-  - [ ] Basic Data Structures
+  - [x] Debugging
+  - [x] Basic Data Structures
   - [ ] Basic Algorithm Scripting
   - [ ] Object Oriented Programming
   - [ ] Functional Programming
