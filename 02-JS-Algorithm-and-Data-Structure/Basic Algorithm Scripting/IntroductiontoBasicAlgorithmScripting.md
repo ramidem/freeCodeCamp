@@ -3,7 +3,7 @@ A computer algorithm is a sequence of steps that is followed to achieve a partic
 To make solving problems easier, it can be helpful to break them down into many chunks. Then, each chunk can be solved one by one. For example, if you are building a calculator, don't try to solve the problem as a whole. First, consider how to get inputs. Then, determine each arithmetic operation one by one. Finally, display the results.
 
 - [x] Convert Celsius to Fahrenheit
-- [ ] Reverse a String
+- [x] Reverse a String
 - [ ] Factorialize a Number
 - [ ] Find the Longest Word in a String
 - [ ] Return Largest Numbers in Arrays
