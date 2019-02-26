@@ -9,7 +9,7 @@ To make solving problems easier, it can be helpful to break them down into many 
 - [x] Return Largest Numbers in Arrays
 - [x] Confirm the Ending
 - [x] Repeat a String Repeat a String
-- [ ] Truncate a String
+- [x] Truncate a String
 - [ ] Finders Keepers
 - [ ] Boo who
 - [ ] Title Case a Sentence
