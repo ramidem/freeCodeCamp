@@ -4,7 +4,7 @@ To make solving problems easier, it can be helpful to break them down into many 
 
 - [x] Convert Celsius to Fahrenheit
 - [x] Reverse a String
-- [ ] Factorialize a Number
+- [x] Factorialize a Number
 - [ ] Find the Longest Word in a String
 - [ ] Return Largest Numbers in Arrays
 - [ ] Confirm the Ending
