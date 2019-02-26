@@ -6,7 +6,7 @@ To make solving problems easier, it can be helpful to break them down into many 
 - [x] Reverse a String
 - [x] Factorialize a Number
 - [x] Find the Longest Word in a String
-- [ ] Return Largest Numbers in Arrays
+- [x] Return Largest Numbers in Arrays
 - [ ] Confirm the Ending
 - [ ] Repeat a String Repeat a String
 - [ ] Truncate a String
