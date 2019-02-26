@@ -7,7 +7,7 @@ To make solving problems easier, it can be helpful to break them down into many 
 - [x] Factorialize a Number
 - [x] Find the Longest Word in a String
 - [x] Return Largest Numbers in Arrays
-- [ ] Confirm the Ending
+- [x] Confirm the Ending
 - [ ] Repeat a String Repeat a String
 - [ ] Truncate a String
 - [ ] Finders Keepers
