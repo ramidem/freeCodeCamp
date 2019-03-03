@@ -8,20 +8,7 @@ I am not sure how long I have hindered this passion of mine. This will work this
 
 🌽🌽🌽
 
-- [ ] Responsive Web Design Certification (300 hours)
-  - [x] Basic HTML and HTML5
-  - [x] Basic CSS
-  - [x] Applied Visual Design
-  - [x] Applied Accessibility
-  - [x] Responsive Web Design Principles
-  - [x] CSS Flexbox
-  - [x] CSS Grid
-  - [ ] Responsive Web Design Projects
-    - [x] Tribute Page
-    - [x] Survey Form
-    - [x] Product Landing Page
-    - [x] Technical Documentation Page
-    - [ ] Personal Portfolio Webpage
+- [x] Responsive Web Design Certification (300 hours)
 - [ ] Javascript Algorithms And Data Structures Certification (300 hours)
   - [x] Basic JavaScript
   - [x] ES6
