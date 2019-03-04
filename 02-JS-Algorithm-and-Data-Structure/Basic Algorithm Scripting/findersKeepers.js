@@ -2,7 +2,6 @@
 // otherwise, return undefined
 
 function findElement(arr, func) {
-  debugger;
   let num = 0;
 
   for (let i = 0; i < arr.length; i++) {
