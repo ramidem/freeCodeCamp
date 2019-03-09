@@ -21,6 +21,13 @@ I am not sure how long I have hindered this passion of mine. This will work this
   - [ ] Intermediate Algorithm Scripting
   - [ ] JavaScript Algorithms and Data Structures Projects
 - [ ] Front End Libraries Certification (300 hours)
+  - [x] Bootstrap
+  - [ ] jQuery
+  - [ ] Sass
+  - [ ] React
+  - [ ] Redux
+  - [ ] React and Redux
+  - [ ] Front End Libraries Projects
 - [ ] Data Visualization Certification (300 hours)
 - [ ] Apis And Microservices Certification (300 hours)
 - [ ] Information Security And Quality Assurance Certification (300 hours)
