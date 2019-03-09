@@ -22,7 +22,7 @@ I am not sure how long I have hindered this passion of mine. This will work this
   - [ ] JavaScript Algorithms and Data Structures Projects
 - [ ] Front End Libraries Certification (300 hours)
   - [x] Bootstrap
-  - [ ] jQuery
+  - [x] jQuery
   - [ ] Sass
   - [ ] React
   - [ ] Redux
