@@ -10,6 +10,7 @@ I am not sure how long I have hindered this passion of mine. This will work this
 
 - [x] Responsive Web Design Certification (300 hours)
 - [ ] Javascript Algorithms And Data Structures Certification (300 hours)
+
   - [x] Basic JavaScript
   - [x] ES6
   - [x] Regular Expressions
@@ -19,7 +20,30 @@ I am not sure how long I have hindered this passion of mine. This will work this
   - [x] Object Oriented Programming
   - [x] Functional Programming
   - [ ] Intermediate Algorithm Scripting
+
+    - [x] Sum All Numbers in a Range
+    - [ ] Diff Two Arrays
+    - [ ] Seek and Destroy
+    - [ ] Wherefore art thou
+    - [ ] Spinal Tap Case
+    - [ ] Pig Latin
+    - [ ] Search and Replace
+    - [ ] DNA Pairing
+    - [ ] Missing letters
+    - [ ] Sorted Union
+    - [ ] Convert HTML Entities
+    - [ ] Sum All Odd Fibonacci Numbers
+    - [ ] Sum All Primes
+    - [ ] Smallest Common Multiple
+    - [ ] Drop it
+    - [ ] Steamroller
+    - [ ] Binary Agents
+    - [ ] Everything Be True
+    - [ ] Arguments Optional
+    - [ ] Make a Person
+
   - [ ] JavaScript Algorithms and Data Structures Projects
+
 - [ ] Front End Libraries Certification (300 hours)
   - [x] Bootstrap
   - [x] jQuery
