@@ -23,7 +23,7 @@ I am not sure how long I have hindered this passion of mine. This will work this
 
     - [x] Sum All Numbers in a Range
     - [x] Diff Two Arrays
-    - [ ] Seek and Destroy
+    - [x] Seek and Destroy
     - [ ] Wherefore art thou
     - [ ] Spinal Tap Case
     - [ ] Pig Latin
