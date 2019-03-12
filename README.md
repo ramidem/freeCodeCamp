@@ -24,7 +24,7 @@ I am not sure how long I have hindered this passion of mine. This will work this
     - [x] Sum All Numbers in a Range
     - [x] Diff Two Arrays
     - [x] Seek and Destroy
-    - [ ] Wherefore art thou
+    - [x] Wherefore art thou - work on this
     - [ ] Spinal Tap Case
     - [ ] Pig Latin
     - [ ] Search and Replace
