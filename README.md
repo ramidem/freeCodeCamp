@@ -25,7 +25,7 @@ I am not sure how long I have hindered this passion of mine. This will work this
     - [x] Diff Two Arrays
     - [x] Seek and Destroy
     - [x] Wherefore art thou - work on this
-    - [ ] Spinal Tap Case
+    - [x] Spinal Tap Case - review regular expressions
     - [ ] Pig Latin
     - [ ] Search and Replace
     - [ ] DNA Pairing
