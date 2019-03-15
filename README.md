@@ -47,7 +47,7 @@ I am not sure how long I have hindered this passion of mine. This will work this
 - [ ] Front End Libraries Certification (300 hours)
   - [x] Bootstrap
   - [x] jQuery
-  - [ ] Sass
+  - [x] Sass
   - [ ] React
   - [ ] Redux
   - [ ] React and Redux
