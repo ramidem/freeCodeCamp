@@ -27,7 +27,7 @@ I am not sure how long I have hindered this passion of mine. This will work this
     - [x] Wherefore art thou - work on this
     - [x] Spinal Tap Case - review regular expressions
     - [x] Pig Latin
-    - [ ] Search and Replace
+    - [x] Search and Replace
     - [ ] DNA Pairing
     - [ ] Missing letters
     - [ ] Sorted Union
