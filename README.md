@@ -28,7 +28,7 @@ I am not sure how long I have hindered this passion of mine. This will work this
     - [x] Spinal Tap Case - review regular expressions
     - [x] Pig Latin
     - [x] Search and Replace
-    - [ ] DNA Pairing
+    - [x] DNA Pairing
     - [ ] Missing letters
     - [ ] Sorted Union
     - [ ] Convert HTML Entities
