@@ -29,7 +29,7 @@ I am not sure how long I have hindered this passion of mine. This will work this
     - [x] Pig Latin
     - [x] Search and Replace
     - [x] DNA Pairing
-    - [ ] Missing letters
+    - [x] Missing letters
     - [ ] Sorted Union
     - [ ] Convert HTML Entities
     - [ ] Sum All Odd Fibonacci Numbers
