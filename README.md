@@ -31,7 +31,7 @@ I am not sure how long I have hindered this passion of mine. This will work this
     - [x] DNA Pairing
     - [x] Missing letters
     - [x] Sorted Union
-    - [ ] Convert HTML Entities
+    - [x] Convert HTML Entities
     - [ ] Sum All Odd Fibonacci Numbers
     - [ ] Sum All Primes
     - [ ] Smallest Common Multiple
