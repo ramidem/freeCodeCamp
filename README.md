@@ -32,7 +32,7 @@ I am not sure how long I have hindered this passion of mine. This will work this
     - [x] Missing letters
     - [x] Sorted Union
     - [x] Convert HTML Entities
-    - [ ] Sum All Odd Fibonacci Numbers
+    - [x] Sum All Odd Fibonacci Numbers
     - [ ] Sum All Primes
     - [ ] Smallest Common Multiple
     - [ ] Drop it
