@@ -34,7 +34,7 @@ I am not sure how long I have hindered this passion of mine. This will work this
     - [x] Convert HTML Entities
     - [x] Sum All Odd Fibonacci Numbers
     - [x] Sum All Primes
-    - [ ] Smallest Common Multiple
+    - [x] Smallest Common Multiple
     - [ ] Drop it
     - [ ] Steamroller
     - [ ] Binary Agents
