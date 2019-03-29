@@ -35,7 +35,7 @@ I am not sure how long I have hindered this passion of mine. This will work this
     - [x] Sum All Odd Fibonacci Numbers
     - [x] Sum All Primes
     - [x] Smallest Common Multiple
-    - [ ] Drop it
+    - [x] Drop it
     - [ ] Steamroller
     - [ ] Binary Agents
     - [ ] Everything Be True
