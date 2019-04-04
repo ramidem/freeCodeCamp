@@ -38,7 +38,7 @@ I am not sure how long I have hindered this passion of mine. This will work this
     - [x] Drop it
     - [x] Steamroller
     - [x] Binary Agents
-    - [ ] Everything Be True
+    - [x] Everything Be True
     - [ ] Arguments Optional
     - [ ] Make a Person
 
