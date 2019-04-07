@@ -39,7 +39,7 @@ I am not sure how long I have hindered this passion of mine. This will work this
     - [x] Steamroller
     - [x] Binary Agents
     - [x] Everything Be True
-    - [ ] Arguments Optional
+    - [x] Arguments Optional
     - [ ] Make a Person
 
   - [ ] JavaScript Algorithms and Data Structures Projects
