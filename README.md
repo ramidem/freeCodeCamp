@@ -19,31 +19,13 @@ I am not sure how long I have hindered this passion of mine. This will work this
   - [x] Basic Algorithm Scripting
   - [x] Object Oriented Programming
   - [x] Functional Programming
-  - [ ] Intermediate Algorithm Scripting
-
-    - [x] Sum All Numbers in a Range
-    - [x] Diff Two Arrays
-    - [x] Seek and Destroy
-    - [x] Wherefore art thou - work on this
-    - [x] Spinal Tap Case - review regular expressions
-    - [x] Pig Latin
-    - [x] Search and Replace
-    - [x] DNA Pairing
-    - [x] Missing letters
-    - [x] Sorted Union
-    - [x] Convert HTML Entities
-    - [x] Sum All Odd Fibonacci Numbers
-    - [x] Sum All Primes
-    - [x] Smallest Common Multiple
-    - [x] Drop it
-    - [x] Steamroller
-    - [x] Binary Agents
-    - [x] Everything Be True
-    - [x] Arguments Optional
-    - [x] Make a Person
-    - [x] Map the Debris
-
+  - [x] Intermediate Algorithm Scripting
   - [ ] JavaScript Algorithms and Data Structures Projects
+    - [ ] Palindrome Checker
+    - [ ] Roman Numeral Converter
+    - [ ] Caesars Cipher
+    - [ ] Telephone Number Validator
+    - [ ] Cash Register
 
 - [ ] Front End Libraries Certification (300 hours)
   - [x] Bootstrap
