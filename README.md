@@ -41,6 +41,7 @@ I am not sure how long I have hindered this passion of mine. This will work this
     - [x] Everything Be True
     - [x] Arguments Optional
     - [x] Make a Person
+    - [x] Map the Debris
 
   - [ ] JavaScript Algorithms and Data Structures Projects
 
