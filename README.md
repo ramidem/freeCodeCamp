@@ -10,7 +10,7 @@ I am not sure how long I have hindered this passion of mine. This will work this
 
 - [ ] Responsive Web Design Certification (300 hours)
   - [x] Basic HTML and HTML5
-  - [ ] Basic CSS
+  - [x] Basic CSS
   - [ ] Applied Visual Design
   - [ ] Applied Accessibility
   - [ ] Responsive Web Design Principles
