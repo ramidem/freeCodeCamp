@@ -14,7 +14,7 @@ I am not sure how long I have hindered this passion of mine. This will work this
   - [x] Applied Visual Design
   - [x] Applied Accessibility
   - [x] Responsive Web Design Principles
-  - [ ] CSS Flexbox
+  - [x] CSS Flexbox
   - [ ] CSS Grid
   - [ ] Responsive Web Design Projects
 - [ ] Javascript Algorithms And Data Structures Certification (300 hours)
