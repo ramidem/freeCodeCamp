@@ -16,7 +16,7 @@ I am not sure how long I have hindered this passion of mine. This will work this
   - [x] Responsive Web Design Principles
   - [x] CSS Flexbox
   - [x] CSS Grid
-  - [ ] Responsive Web Design Projects
+  - [x] Responsive Web Design Projects
 - [ ] Javascript Algorithms And Data Structures Certification (300 hours)
 - [ ] Front End Libraries Certification (300 hours)
 - [ ] Data Visualization Certification (300 hours)
