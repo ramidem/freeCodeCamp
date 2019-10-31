@@ -22,7 +22,7 @@ I am not sure how long I have hindered this passion of mine. This will work this
 - [ ] Javascript Algorithms And Data Structures Certification (300 hours)
 
   - [x] Basic JavaScript
-  - [ ] ES6
+  - [x] ES6
   - [ ] Regular Expressions
   - [ ] Debugging
   - [ ] Basic Data Structures
