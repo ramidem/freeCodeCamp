@@ -24,7 +24,7 @@ I am not sure how long I have hindered this passion of mine. This will work this
   - [x] Basic JavaScript
   - [x] ES6
   - [x] Regular Expressions
-  - [ ] Debugging
+  - [x] Debugging
   - [ ] Basic Data Structures
   - [ ] Basic Algorithm Scripting
   - [ ] Object Oriented Programming
