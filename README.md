@@ -25,7 +25,7 @@ I am not sure how long I have hindered this passion of mine. This will work this
   - [x] ES6
   - [x] Regular Expressions
   - [x] Debugging
-  - [ ] Basic Data Structures
+  - [x] Basic Data Structures
   - [ ] Basic Algorithm Scripting
   - [ ] Object Oriented Programming
   - [ ] Functional Programming
