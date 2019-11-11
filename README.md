@@ -26,7 +26,7 @@ I am not sure how long I have hindered this passion of mine. This will work this
   - [x] Regular Expressions
   - [x] Debugging
   - [x] Basic Data Structures
-  - [ ] Basic Algorithm Scripting
+  - [x] Basic Algorithm Scripting
   - [ ] Object Oriented Programming
   - [ ] Functional Programming
   - [ ] Intermediate Algorithm Scripting
