@@ -1,6 +1,4 @@
 function chunkArrayInGroups(arr, size) {
-  console.log(arr);
-
   // Break it up.
   let chunks = [];
 
