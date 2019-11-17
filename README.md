@@ -12,7 +12,7 @@ I am not sure how long I have hindered this passion of mine. This will work this
 
   - [x] Basic HTML and HTML5
   - [x] Basic CSS
-  - [x] Applied Visual Design
+  - [x] Applied Visual Designi
   - [x] Applied Accessibility
   - [x] Responsive Web Design Principles
   - [x] CSS Flexbox
@@ -28,7 +28,7 @@ I am not sure how long I have hindered this passion of mine. This will work this
   - [x] Basic Data Structures
   - [x] Basic Algorithm Scripting
   - [x] Object Oriented Programming
-  - [ ] Functional Programming
+  - [x] Functional Programming
   - [ ] Intermediate Algorithm Scripting
   - [ ] JavaScript Algorithms and Data Structures Projects
 
