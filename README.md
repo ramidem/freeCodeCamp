@@ -29,7 +29,7 @@ I am not sure how long I have hindered this passion of mine. This will work this
   - [x] Basic Algorithm Scripting
   - [x] Object Oriented Programming
   - [x] Functional Programming
-  - [ ] Intermediate Algorithm Scripting
+  - [x] Intermediate Algorithm Scripting
   - [ ] JavaScript Algorithms and Data Structures Projects
 
 - [ ] Front End Libraries Certification (300 hours)
