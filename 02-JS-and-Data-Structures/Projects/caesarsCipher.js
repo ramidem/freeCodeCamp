@@ -8,18 +8,11 @@ function rot13(str) {
 
   for (let i = 0; i < letters.length; i++) {
     if (letters[i].match(/[A-Z]/)) {
-      // if (letters[i].charCodeAt() < 78) {
-      //   match.push(String.fromCharCode(letters[i].charCodeAt() + 13));
-      // } else {
-      //   match.push(String.fromCharCode(letters[i].charCodeAt() - 13));
-      // }
-      match.push(
-        String.fromCharCode(
-          `${letters[i].charCodeAt()} ${
-            letters[i].charCodeAt() < 78 ? "+" : "-"
-          } ${13}`
-        )
-      );
+      if (letters[i].charCodeAt() < 78) {
+        match.push(String.fromCharCode(letters[i].charCodeAt() + 13));
+      } else {
+        match.push(String.fromCharCode(letters[i].charCodeAt() - 13));
+      }
     } else {
       match.push(letters[i]);
     }
