@@ -1,0 +1,104 @@
+// Store Data with Sass Variables
+$text-color: red;
+
+.header {
+  text-align: center;
+}
+
+// Nest CSS with Sass
+.blog-post {
+  h2 {
+    color: $text-color;
+  }
+
+  p {
+    font-size: 20px;
+  }
+}
+
+// Create Reusable CSS with Mixins
+@mixin border-radius($radius) {
+  border-radius: $radius;
+  -webkit-border-radius: $radius;
+  -moz-border-radius: $radius;
+  -ms-border-radius: $radius;
+}
+
+#awesome {
+  width: 150px;
+  height: 150px;
+  background-color: green;
+  @include border-radius(15px);
+}
+
+// Use @if and @else to Add Logic To Your Styles
+@mixin border-stroke($val) {
+  @if $val == light {
+    border: 1px solid black;
+  } @else if $val == medium {
+    border: 3px solid black;
+  } @else if $val == heavy {
+    border: 6px solid black;
+  } @else {
+    border: none;
+  }
+}
+
+#box {
+  width: 150px;
+  height: 150px;
+  background-color: red;
+  @include border-stroke(medium);
+}
+
+// Use @for to Create a Sass Loop
+@for $j from 1 through 6 {
+  .text-#{$j} {
+    font-size: $j * 10;
+  }
+}
+
+// Use @each to Map Over Items in a List
+$colors: (
+  color1: blue,
+  color2: black,
+  color3: red
+);
+
+@each $key, $color in $colors {
+  .#{$color}-bg {
+    background-color: $color;
+  }
+}
+
+div {
+  height: 200px;
+  width: 200px;
+}
+
+// Apply a Style Until a Condition is Met with @while
+$counter: 1;
+
+@while $counter < 15 {
+  .text-#{$counter} {
+    font-size: $counter * 15px;
+  }
+  $counter: $counter + 1;
+}
+
+// Split Your Styles into Smaller Chunks with Partials
+// `Partials` in Sass are separate files that hold segements of CSS code.
+// Names for partials start with the underscore (_) _partials.scss
+@import "partials";
+
+// Extend One Set of CSS Styles to Another Element
+.info {
+  width: 200px;
+  border: 1px solid black;
+  margin: 0 auto;
+}
+
+.info-important {
+  @extend .info;
+  background-color: magenta;
+}
